@@ -1,2 +1,3 @@
-# Homelab
-# Homelab
+## Homelab
+
+Beginning of the Homelab path
